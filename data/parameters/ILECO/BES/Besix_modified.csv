@@ -1,0 +1,12 @@
+Unit,Units_Use,Units_Mult,Costs_Unit_inv,GWP_Unit_constr,lifetime
+Air_Conditioner_Air_Building1,1.0,20,524.2235812191792,124.92681007337,20.0
+Battery_Building1,1.0,100,58.34350909152704,1.02781,10.0
+Battery_district,0.0,0.0,0.0,0.0,10.0
+EV_district,1.0,440,6.727238993781944e-06,1.1e-05,10.0
+ElectricalHeater_DHW_Building1,1.0,0.74561617756,88.79638232674733,0.11728513164,20.0
+ElectricalHeater_SH_Building1,0.0,0.0,0.0,0.0,20.0
+HeatPump_Air_Building1,1.0,20,2163.7577160403607,86.00593469132,20.0
+PV_Building1,1.0,80,16651.506584281567,3217.746564,25.0
+ThermalSolar_Building1,0.0,0.0,0.0,0.0,20.0
+WaterTankDHW_Building1,1.0,0.15912,129.9984970860287,9.579029,20.0
+WaterTankSH_Building1,0.0,0.0,0.0,0.0,20.0
